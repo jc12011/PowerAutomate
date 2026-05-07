@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="SknNkdHGSRTrZO3V0rIl">
-    <mxGraphModel dx="1288" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2289" dy="1384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,7 +143,7 @@
           <mxGeometry height="60" width="110" x="770" y="450" as="geometry" />
         </mxCell>
         <mxCell id="5kB0pMFkFfdUU3ElgJXB-7" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;2. Convert file to pdf&lt;/h1&gt;&lt;p&gt;currently no way to preserve the original file&#39;s Approval status if convert file to pdf because SharePoint will treat as a new file.&lt;/p&gt;" vertex="1">
-          <mxGeometry height="110" width="690" x="30" y="1000" as="geometry" />
+          <mxGeometry height="110" width="690" x="30" y="980" as="geometry" />
         </mxCell>
         <mxCell id="Y-5Rl3NvX9l5issuMN57-4" edge="1" parent="1" source="Y-5Rl3NvX9l5issuMN57-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dw8o1Iwls4ASfkwBR7E6-2" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -185,7 +185,7 @@
           <mxGeometry height="60" width="120" x="365.5" y="530" as="geometry" />
         </mxCell>
         <mxCell id="Y-5Rl3NvX9l5issuMN57-21" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;3. Envelope in DocuSign&lt;/h1&gt;&lt;div&gt;A envelope can includes multiple files, that also have recipients information.&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="665" x="35" y="1120" as="geometry" />
+          <mxGeometry height="120" width="665" x="730" y="840" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
